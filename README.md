@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Abdel Fattah, a software engineer specializing in web development.  <br>💻 I enjoy building modern applications using React and Node.js.  <br>🚀 I have experience in real-world projects and continuously learn the latest technologies.  <br>🎯 I always strive to solve problems efficiently and creatively.  <br>🌐 I love contributing to open-source projects on GitHub.<br>
+👋 Hi, I'm Abd Alfatah, a software engineer specializing in web development.  <br>💻 I enjoy building modern applications using React and Node.js.  <br>🚀 I have experience in real-world projects and continuously learn the latest technologies.  <br>🎯 I always strive to solve problems efficiently and creatively.  <br>🌐 I love contributing to open-source projects on GitHub.<br>
 
 
 ## 🌐 Socials:
